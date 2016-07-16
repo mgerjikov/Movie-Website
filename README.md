@@ -1,4 +1,4 @@
-# Moview-Website
+# Movie-Website
 
 Create a Movie Website
 
